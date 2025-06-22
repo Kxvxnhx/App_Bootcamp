@@ -7,7 +7,6 @@
 ![PRs](https://img.shields.io/badge/PRs-Welcome-orange)
 
 ## 📝 Licencia
-
 Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo, mejorarlo y compartirlo!
 $$
 S_w = \sqrt{ \frac{a \cdot R_w}{\phi^m \cdot R_t} }
